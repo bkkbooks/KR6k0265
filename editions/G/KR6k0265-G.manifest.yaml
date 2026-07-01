@@ -1,0 +1,3694 @@
+canonical_identifier: bkk:krp/KR6k0265/G/v1
+canonical_location: https://kanripo.org/bkk/KR6k0265/G/v1
+canonical_set:
+  identifier: bkk:charset/cjk-v1
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+metadata:
+  title: 南山律在家備覽略編
+  identifiers:
+    krp: KR6k0265
+    cbeta: G104n2250
+    cbeta_old_id: G104n2250
+    authorityid: CA0008626
+    json_key: G2250
+  source:
+    repository: cbeta
+    path: /home/chris/src/xml-p5/G/G104/G104n2250.xml
+    old_id: G104n2250
+  edition:
+    short: G
+assets:
+  parts:
+  - {seq: 0, filename: KR6k0265_000-G.yaml, hash: 'sha256:941efb6744b596d94cb13a9063ebfda10ccc723b65a3b889fa3bfa4dd072676f'}
+  - {seq: 1, filename: KR6k0265_001-G.yaml, hash: 'sha256:4191f101ef553b60b053641d6cb80dc2064e933e233613d668b56fbe7ceb77a3'}
+  - {seq: 2, filename: KR6k0265_002-G.yaml, hash: 'sha256:bb5a7ce09ddc1d34b05a593468a2a59b6b23be78d9576943fa931794f277c870'}
+  - {seq: 3, filename: KR6k0265_003-G.yaml, hash: 'sha256:f71dad195c7231e9c966d5396c2eceab830a8e80d51f68c663bbd604e96ce7f4'}
+  - {seq: 4, filename: KR6k0265_004-G.yaml, hash: 'sha256:3cbf7619078fd72ae0637d998cfa4453d51961ebcc04fa2ebc831ee0e2d699cd'}
+  markers:
+  - {seq: 0, role: markers, filename: assets/KR6k0265_000-G.markers.yaml, hash: 'sha256:852f370f82be3550c3ab5b1239368d141b9092862425bb20c4def358d565792f'}
+  - {seq: 1, role: markers, filename: assets/KR6k0265_001-G.markers.yaml, hash: 'sha256:6065406f43bdf69600634d6fa27d859985516a6731fa2fff38071f19b1a342eb'}
+  - {seq: 2, role: markers, filename: assets/KR6k0265_002-G.markers.yaml, hash: 'sha256:f28d42faba634604e10534c4c7b032cee9b76d9c588bc1758f6736454a1161b2'}
+  - {seq: 3, role: markers, filename: assets/KR6k0265_003-G.markers.yaml, hash: 'sha256:7d3a8c46bda8a4a2037d0fb0d7a62bfa87de4471b4d46a0c80102bc03a048998'}
+  - {seq: 4, role: markers, filename: assets/KR6k0265_004-G.markers.yaml, hash: 'sha256:4935bb614b98d0c124b926f0c5b9f0a7d5a4db828476814e3a57089260d78583'}
+table_of_contents:
+- ref:
+    seq: 0
+    marker_id: KR6k0265_G_000-mulu-1
+    span:
+    - front
+    - 0
+    - 0
+  label: 例言
+  type: mulu
+  level: 1
+- ref:
+    seq: 0
+    marker_id: KR6k0265_G_000-mulu-2
+    span:
+    - front
+    - 1502
+    - 1502
+  label: 目表
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6k0265_G_001-juan-start
+    span:
+    - body
+    - 0
+    - 40614
+  label: 南山律在家備覽　　略編　　學者宜先詳覽卷首之例言及目表然後再閱正文
+  type: juan
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6k0265_G_001-mulu-1
+    span:
+    - body
+    - 0
+    - 0
+  label: 宗體篇
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6k0265_G_001-mulu-2
+    span:
+    - body
+    - 0
+    - 0
+  label: 前文
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6k0265_G_001-mulu-3
+    span:
+    - body
+    - 667
+    - 667
+  label: 第一門　戒法
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6k0265_G_001-mulu-4
+    span:
+    - body
+    - 689
+    - 689
+  label: 第一章　通敘戒法
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6k0265_G_001-mulu-5
+    span:
+    - body
+    - 720
+    - 720
+  label: 第一節　示相彰名
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6k0265_G_001-mulu-6
+    span:
+    - body
+    - 742
+    - 742
+  label: 第一項　正示
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6k0265_G_001-mulu-7
+    span:
+    - body
+    - 1037
+    - 1037
+  label: 第二項　雜簡
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6k0265_G_001-mulu-8
+    span:
+    - body
+    - 1058
+    - 1058
+  label: 第一支　化制
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6k0265_G_001-mulu-9
+    span:
+    - body
+    - 1676
+    - 1676
+  label: 第二支　戒善
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6k0265_G_001-mulu-10
+    span:
+    - body
+    - 1921
+    - 1921
+  label: 第三支　遮性
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6k0265_G_001-mulu-11
+    span:
+    - body
+    - 2465
+    - 2465
+  label: 第二節　略辨教體
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6k0265_G_001-mulu-12
+    span:
+    - body
+    - 3493
+    - 3493
+  label: 第三節　顯知由徑
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6k0265_G_001-mulu-13
+    span:
+    - body
+    - 3534
+    - 3534
+  label: 第一項　聖道本基
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6k0265_G_001-mulu-14
+    span:
+    - body
+    - 4011
+    - 4011
+  label: 第二項　戒有大用
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6k0265_G_001-mulu-15
+    span:
+    - body
+    - 4112
+    - 4112
+  label: 第三項　略解名義
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6k0265_G_001-mulu-16
+    span:
+    - body
+    - 4650
+    - 4650
+  label: 第四項　優劣有異
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6k0265_G_001-mulu-17
+    span:
+    - body
+    - 5028
+    - 5028
+  label: 第五項　重受通塞
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6k0265_G_001-mulu-18
+    span:
+    - body
+    - 5509
+    - 5509
+  label: 第二章　歸戒儀軌
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6k0265_G_001-mulu-19
+    span:
+    - body
+    - 5927
+    - 5927
+  label: 第一節　翻邪三歸
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6k0265_G_001-mulu-20
+    span:
+    - body
+    - 6021
+    - 6021
+  label: 第一項　歸意
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6k0265_G_001-mulu-21
+    span:
+    - body
+    - 6173
+    - 6173
+  label: 第二項　顯相
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6k0265_G_001-mulu-22
+    span:
+    - body
+    - 7456
+    - 7456
+  label: 第三項　功益
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6k0265_G_001-mulu-23
+    span:
+    - body
+    - 7988
+    - 7988
+  label: 第四項　懺悔
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6k0265_G_001-mulu-24
+    span:
+    - body
+    - 8159
+    - 8159
+  label: 第五項　作法
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6k0265_G_001-mulu-25
+    span:
+    - body
+    - 8693
+    - 8693
+  label: 第六項　料簡
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6k0265_G_001-mulu-26
+    span:
+    - body
+    - 8955
+    - 8955
+  label: 第二節　五戒
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6k0265_G_001-mulu-27
+    span:
+    - body
+    - 9002
+    - 9002
+  label: 第一項　戒德高勝
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6k0265_G_001-mulu-28
+    span:
+    - body
+    - 9408
+    - 9408
+  label: 第二項　簡人是非
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6k0265_G_001-mulu-29
+    span:
+    - body
+    - 9842
+    - 9842
+  label: 第三項　預習發戒
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6k0265_G_001-mulu-30
+    span:
+    - body
+    - 10084
+    - 10084
+  label: 第一支　所受法體
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6k0265_G_001-mulu-31
+    span:
+    - body
+    - 10189
+    - 10189
+  label: 第二支　發戒境量
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6k0265_G_001-mulu-32
+    span:
+    - body
+    - 11241
+    - 11241
+  label: 第三支　依境發心
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6k0265_G_001-mulu-33
+    span:
+    - body
+    - 12802
+    - 12802
+  label: 第四支　用心承仰
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6k0265_G_001-mulu-34
+    span:
+    - body
+    - 12904
+    - 12904
+  label: 第四項　歎功問相
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6k0265_G_001-mulu-35
+    span:
+    - body
+    - 13312
+    - 13312
+  label: 第五項　懺悔清淨
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6k0265_G_001-mulu-36
+    span:
+    - body
+    - 13494
+    - 13494
+  label: 第六項　作法差別
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6k0265_G_001-mulu-37
+    span:
+    - body
+    - 13525
+    - 13525
+  label: 第一支　臨時開導
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6k0265_G_001-mulu-38
+    span:
+    - body
+    - 14085
+    - 14085
+  label: 第二支　正納戒體
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6k0265_G_001-mulu-39
+    span:
+    - body
+    - 14470
+    - 14470
+  label: 第三支　示相教誡
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6k0265_G_001-mulu-40
+    span:
+    - body
+    - 14966
+    - 14966
+  label: 第七項　料簡雜相
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6k0265_G_001-mulu-41
+    span:
+    - body
+    - 16033
+    - 16033
+  label: 第三節　八戒
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6k0265_G_001-mulu-42
+    span:
+    - body
+    - 16063
+    - 16063
+  label: 第一項　釋名
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6k0265_G_001-mulu-43
+    span:
+    - body
+    - 16268
+    - 16268
+  label: 第二項　功益
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6k0265_G_001-mulu-44
+    span:
+    - body
+    - 16638
+    - 16638
+  label: 第三項　簡人
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6k0265_G_001-mulu-45
+    span:
+    - body
+    - 16664
+    - 16664
+  label: 第四項　懺悔
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6k0265_G_001-mulu-46
+    span:
+    - body
+    - 16763
+    - 16763
+  label: 第五項　作法
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6k0265_G_001-mulu-47
+    span:
+    - body
+    - 16785
+    - 16785
+  label: 第一支　正納戒體
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6k0265_G_001-mulu-48
+    span:
+    - body
+    - 17138
+    - 17138
+  label: 第二支　說相發願
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6k0265_G_001-mulu-49
+    span:
+    - body
+    - 18241
+    - 18241
+  label: 第六項　料簡
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6k0265_G_001-mulu-50
+    span:
+    - body
+    - 18273
+    - 18273
+  label: 第一支　對簡多宗
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6k0265_G_001-mulu-51
+    span:
+    - body
+    - 18817
+    - 18817
+  label: 第二支　遲受開成
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6k0265_G_001-mulu-52
+    span:
+    - body
+    - 18908
+    - 18908
+  label: 第三支　獨受離過
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6k0265_G_001-mulu-53
+    span:
+    - body
+    - 18984
+    - 18984
+  label: 第四支　斷惡攝淨
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6k0265_G_001-mulu-54
+    span:
+    - body
+    - 19279
+    - 19279
+  label: 第二門　戒體
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6k0265_G_001-mulu-55
+    span:
+    - body
+    - 19477
+    - 19477
+  label: 第一章　戒體相狀
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6k0265_G_001-mulu-56
+    span:
+    - body
+    - 19503
+    - 19503
+  label: 第一節　能領心相
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6k0265_G_001-mulu-57
+    span:
+    - body
+    - 20018
+    - 20018
+  label: 第二節　所發業體
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6k0265_G_001-mulu-58
+    span:
+    - body
+    - 20064
+    - 20064
+  label: 第一項　辨體多少
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6k0265_G_001-mulu-59
+    span:
+    - body
+    - 20209
+    - 20209
+  label: 第二項　立兩解名
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6k0265_G_001-mulu-60
+    span:
+    - body
+    - 20235
+    - 20235
+  label: 第一支　立兩所以
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6k0265_G_001-mulu-61
+    span:
+    - body
+    - 20519
+    - 20519
+  label: 第二支　并解名義
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6k0265_G_001-mulu-62
+    span:
+    - body
+    - 21282
+    - 21282
+  label: 第三項　依論出體
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6k0265_G_001-mulu-63
+    span:
+    - body
+    - 21741
+    - 21741
+  label: 第一支　作戒體
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6k0265_G_001-mulu-64
+    span:
+    - body
+    - 22224
+    - 22224
+  label: 第二支　無作戒體
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6k0265_G_001-mulu-65
+    span:
+    - body
+    - 23339
+    - 23339
+  label: 第四項　顯立正義
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6k0265_G_001-mulu-66
+    span:
+    - body
+    - 23559
+    - 23559
+  label: 第一支　實法宗
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6k0265_G_001-mulu-67
+    span:
+    - body
+    - 24248
+    - 24248
+  label: 第二支　假名宗
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6k0265_G_001-mulu-68
+    span:
+    - body
+    - 25132
+    - 25132
+  label: 第三支　圓教宗
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6k0265_G_001-mulu-69
+    span:
+    - body
+    - 30671
+    - 30671
+  label: 第五項　先後相生
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6k0265_G_001-mulu-70
+    span:
+    - body
+    - 31450
+    - 31450
+  label: 第六項　無作多少
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6k0265_G_001-mulu-71
+    span:
+    - body
+    - 32848
+    - 32848
+  label: 第二章　受隨同異
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6k0265_G_001-mulu-72
+    span:
+    - body
+    - 32872
+    - 32872
+  label: 第一節　釋兩名
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6k0265_G_001-mulu-73
+    span:
+    - body
+    - 33343
+    - 33343
+  label: 第二節　辨同異
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6k0265_G_001-mulu-74
+    span:
+    - body
+    - 33366
+    - 33366
+  label: 第一項　解二作
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6k0265_G_001-mulu-75
+    span:
+    - body
+    - 33390
+    - 33390
+  label: 第一支　先釋二名
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6k0265_G_001-mulu-76
+    span:
+    - body
+    - 33534
+    - 33534
+  label: 第二支　正辨同異
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6k0265_G_001-mulu-77
+    span:
+    - body
+    - 34098
+    - 34098
+  label: 第二項　解二無作
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6k0265_G_001-mulu-78
+    span:
+    - body
+    - 34124
+    - 34124
+  label: 第一支　先釋二名
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6k0265_G_001-mulu-79
+    span:
+    - body
+    - 34317
+    - 34317
+  label: 第二支　正辨同異
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6k0265_G_001-mulu-80
+    span:
+    - body
+    - 35322
+    - 35322
+  label: 第三章　緣境寬狹
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6k0265_G_001-mulu-81
+    span:
+    - body
+    - 35344
+    - 35344
+  label: 第一節　列釋
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6k0265_G_001-mulu-82
+    span:
+    - body
+    - 35753
+    - 35753
+  label: 第二節　別簡
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6k0265_G_001-mulu-83
+    span:
+    - body
+    - 36240
+    - 36240
+  label: 第四章　發戒數量
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6k0265_G_001-mulu-84
+    span:
+    - body
+    - 36268
+    - 36268
+  label: 第一節　明境徧一切
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6k0265_G_001-mulu-85
+    span:
+    - body
+    - 37210
+    - 37210
+  label: 第二節　明發戒多少
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6k0265_G_001-mulu-86
+    span:
+    - body
+    - 38261
+    - 38261
+  label: 第三門　戒行
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6k0265_G_001-mulu-87
+    span:
+    - body
+    - 38283
+    - 38283
+  label: 第一章　正明隨行
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6k0265_G_001-mulu-88
+    span:
+    - body
+    - 39849
+    - 39849
+  label: 第二章　因示捨戒
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6k0265_G_001-mulu-89
+    span:
+    - body
+    - 40445
+    - 40445
+  label: 第四門　戒相
+  type: mulu
+  level: 1
+- ref:
+    seq: 2
+    marker_id: KR6k0265_G_002-juan-start
+    span:
+    - body
+    - 0
+    - 42308
+  label: 南山律在家備覽　　略編　　學者宜先詳覽卷首之例言及目表然後再閱正文
+  type: juan
+  level: 1
+- ref:
+    seq: 2
+    marker_id: KR6k0265_G_002-mulu-1
+    span:
+    - body
+    - 0
+    - 0
+  label: 持犯篇
+  type: mulu
+  level: 1
+- ref:
+    seq: 2
+    marker_id: KR6k0265_G_002-mulu-2
+    span:
+    - body
+    - 0
+    - 0
+  label: 前文
+  type: mulu
+  level: 1
+- ref:
+    seq: 2
+    marker_id: KR6k0265_G_002-mulu-3
+    span:
+    - body
+    - 832
+    - 832
+  label: 第一門　持犯總義
+  type: mulu
+  level: 1
+- ref:
+    seq: 2
+    marker_id: KR6k0265_G_002-mulu-4
+    span:
+    - body
+    - 893
+    - 893
+  label: 第一章　持犯名字
+  type: mulu
+  level: 1
+- ref:
+    seq: 2
+    marker_id: KR6k0265_G_002-mulu-5
+    span:
+    - body
+    - 1770
+    - 1770
+  label: 第二章　持犯體狀
+  type: mulu
+  level: 1
+- ref:
+    seq: 2
+    marker_id: KR6k0265_G_002-mulu-6
+    span:
+    - body
+    - 2446
+    - 2446
+  label: 第三章　成就處所
+  type: mulu
+  level: 1
+- ref:
+    seq: 2
+    marker_id: KR6k0265_G_002-mulu-7
+    span:
+    - body
+    - 2551
+    - 2551
+  label: 第一節　約三心明止持
+  type: mulu
+  level: 1
+- ref:
+    seq: 2
+    marker_id: KR6k0265_G_002-mulu-8
+    span:
+    - body
+    - 3038
+    - 3038
+  label: 第二節　約行心明四行
+  type: mulu
+  level: 1
+- ref:
+    seq: 2
+    marker_id: KR6k0265_G_002-mulu-9
+    span:
+    - body
+    - 3332
+    - 3332
+  label: 第三節　約三業明四行
+  type: mulu
+  level: 1
+- ref:
+    seq: 2
+    marker_id: KR6k0265_G_002-mulu-10
+    span:
+    - body
+    - 4099
+    - 4099
+  label: 第四章　辨犯優劣
+  type: mulu
+  level: 1
+- ref:
+    seq: 2
+    marker_id: KR6k0265_G_002-mulu-11
+    span:
+    - body
+    - 4255
+    - 4255
+  label: 第一節　約三性辨犯
+  type: mulu
+  level: 1
+- ref:
+    seq: 2
+    marker_id: KR6k0265_G_002-mulu-12
+    span:
+    - body
+    - 4290
+    - 4290
+  label: 第一項　明起業之源
+  type: mulu
+  level: 1
+- ref:
+    seq: 2
+    marker_id: KR6k0265_G_002-mulu-13
+    span:
+    - body
+    - 4977
+    - 4977
+  label: 第二項　約三性示相
+  type: mulu
+  level: 1
+- ref:
+    seq: 2
+    marker_id: KR6k0265_G_002-mulu-14
+    span:
+    - body
+    - 5006
+    - 5006
+  label: 第一支　善心
+  type: mulu
+  level: 1
+- ref:
+    seq: 2
+    marker_id: KR6k0265_G_002-mulu-15
+    span:
+    - body
+    - 5143
+    - 5143
+  label: 第二支　不善心
+  type: mulu
+  level: 1
+- ref:
+    seq: 2
+    marker_id: KR6k0265_G_002-mulu-16
+    span:
+    - body
+    - 5388
+    - 5388
+  label: 第三支　無記心
+  type: mulu
+  level: 1
+- ref:
+    seq: 2
+    marker_id: KR6k0265_G_002-mulu-17
+    span:
+    - body
+    - 6054
+    - 6054
+  label: 第三項　結示傷歎
+  type: mulu
+  level: 1
+- ref:
+    seq: 2
+    marker_id: KR6k0265_G_002-mulu-18
+    span:
+    - body
+    - 6341
+    - 6341
+  label: 第二節　將心望境辨犯
+  type: mulu
+  level: 1
+- ref:
+    seq: 2
+    marker_id: KR6k0265_G_002-mulu-19
+    span:
+    - body
+    - 7240
+    - 7240
+  label: 第三節　單心辨犯
+  type: mulu
+  level: 1
+- ref:
+    seq: 2
+    marker_id: KR6k0265_G_002-mulu-20
+    span:
+    - body
+    - 7843
+    - 7843
+  label: 第四節　有心無心辨犯
+  type: mulu
+  level: 1
+- ref:
+    seq: 2
+    marker_id: KR6k0265_G_002-mulu-21
+    span:
+    - body
+    - 8571
+    - 8571
+  label: 第五章　方便趣果
+  type: mulu
+  level: 1
+- ref:
+    seq: 2
+    marker_id: KR6k0265_G_002-mulu-22
+    span:
+    - body
+    - 8660
+    - 8660
+  label: 第一節　前方便
+  type: mulu
+  level: 1
+- ref:
+    seq: 2
+    marker_id: KR6k0265_G_002-mulu-23
+    span:
+    - body
+    - 8874
+    - 8874
+  label: 第二節　中根本
+  type: mulu
+  level: 1
+- ref:
+    seq: 2
+    marker_id: KR6k0265_G_002-mulu-24
+    span:
+    - body
+    - 8981
+    - 8981
+  label: 第三節　後方便
+  type: mulu
+  level: 1
+- ref:
+    seq: 2
+    marker_id: KR6k0265_G_002-mulu-25
+    span:
+    - body
+    - 9077
+    - 9077
+  label: 第六章　闕緣不成
+  type: mulu
+  level: 1
+- ref:
+    seq: 2
+    marker_id: KR6k0265_G_002-mulu-26
+    span:
+    - body
+    - 9099
+    - 9099
+  label: 第一節　顯相
+  type: mulu
+  level: 1
+- ref:
+    seq: 2
+    marker_id: KR6k0265_G_002-mulu-27
+    span:
+    - body
+    - 9166
+    - 9166
+  label: 第一項　闕緣
+  type: mulu
+  level: 1
+- ref:
+    seq: 2
+    marker_id: KR6k0265_G_002-mulu-28
+    span:
+    - body
+    - 9463
+    - 9463
+  label: 第二項　境強
+  type: mulu
+  level: 1
+- ref:
+    seq: 2
+    marker_id: KR6k0265_G_002-mulu-29
+    span:
+    - body
+    - 9598
+    - 9598
+  label: 第三項　緣差
+  type: mulu
+  level: 1
+- ref:
+    seq: 2
+    marker_id: KR6k0265_G_002-mulu-30
+    span:
+    - body
+    - 9704
+    - 9704
+  label: 第四項　境差
+  type: mulu
+  level: 1
+- ref:
+    seq: 2
+    marker_id: KR6k0265_G_002-mulu-31
+    span:
+    - body
+    - 9787
+    - 9787
+  label: 第一支　明人異境
+  type: mulu
+  level: 1
+- ref:
+    seq: 2
+    marker_id: KR6k0265_G_002-mulu-32
+    span:
+    - body
+    - 9812
+    - 9812
+  label: 第一類　正明
+  type: mulu
+  level: 1
+- ref:
+    seq: 2
+    marker_id: KR6k0265_G_002-mulu-33
+    span:
+    - body
+    - 9920
+    - 9920
+  label: 第二類　問答
+  type: mulu
+  level: 1
+- ref:
+    seq: 2
+    marker_id: KR6k0265_G_002-mulu-34
+    span:
+    - body
+    - 9944
+    - 9944
+  label: 第一端　問異境無心
+  type: mulu
+  level: 1
+- ref:
+    seq: 2
+    marker_id: KR6k0265_G_002-mulu-35
+    span:
+    - body
+    - 10108
+    - 10108
+  label: 第二端　問因果差別
+  type: mulu
+  level: 1
+- ref:
+    seq: 2
+    marker_id: KR6k0265_G_002-mulu-36
+    span:
+    - body
+    - 10585
+    - 10585
+  label: 第三類　指廣
+  type: mulu
+  level: 1
+- ref:
+    seq: 2
+    marker_id: KR6k0265_G_002-mulu-37
+    span:
+    - body
+    - 11020
+    - 11020
+  label: 第二支　明餘異境
+  type: mulu
+  level: 1
+- ref:
+    seq: 2
+    marker_id: KR6k0265_G_002-mulu-38
+    span:
+    - body
+    - 11042
+    - 11042
+  label: 第一類　通示
+  type: mulu
+  level: 1
+- ref:
+    seq: 2
+    marker_id: KR6k0265_G_002-mulu-39
+    span:
+    - body
+    - 11082
+    - 11082
+  label: 第二類　釋疑
+  type: mulu
+  level: 1
+- ref:
+    seq: 2
+    marker_id: KR6k0265_G_002-mulu-40
+    span:
+    - body
+    - 11106
+    - 11106
+  label: 第一端　釋人異境難
+  type: mulu
+  level: 1
+- ref:
+    seq: 2
+    marker_id: KR6k0265_G_002-mulu-41
+    span:
+    - body
+    - 11186
+    - 11186
+  label: 第二端　釋律境想難
+  type: mulu
+  level: 1
+- ref:
+    seq: 2
+    marker_id: KR6k0265_G_002-mulu-42
+    span:
+    - body
+    - 12414
+    - 12414
+  label: 第五項　想差
+  type: mulu
+  level: 1
+- ref:
+    seq: 2
+    marker_id: KR6k0265_G_002-mulu-43
+    span:
+    - body
+    - 12896
+    - 12896
+  label: 第六項　疑心
+  type: mulu
+  level: 1
+- ref:
+    seq: 2
+    marker_id: KR6k0265_G_002-mulu-44
+    span:
+    - body
+    - 13130
+    - 13130
+  label: 第七項　善心息
+  type: mulu
+  level: 1
+- ref:
+    seq: 2
+    marker_id: KR6k0265_G_002-mulu-45
+    span:
+    - body
+    - 13352
+    - 13352
+  label: 第二節　校量
+  type: mulu
+  level: 1
+- ref:
+    seq: 2
+    marker_id: KR6k0265_G_002-mulu-46
+    span:
+    - body
+    - 13681
+    - 13681
+  label: 第七章　境想分別
+  type: mulu
+  level: 1
+- ref:
+    seq: 2
+    marker_id: KR6k0265_G_002-mulu-47
+    span:
+    - body
+    - 13718
+    - 13718
+  label: 第一節　明制意
+  type: mulu
+  level: 1
+- ref:
+    seq: 2
+    marker_id: KR6k0265_G_002-mulu-48
+    span:
+    - body
+    - 13785
+    - 13785
+  label: 第二節　明有無
+  type: mulu
+  level: 1
+- ref:
+    seq: 2
+    marker_id: KR6k0265_G_002-mulu-49
+    span:
+    - body
+    - 14046
+    - 14046
+  label: 第三節　定四五句
+  type: mulu
+  level: 1
+- ref:
+    seq: 2
+    marker_id: KR6k0265_G_002-mulu-50
+    span:
+    - body
+    - 14372
+    - 14372
+  label: 第四節　互四五句
+  type: mulu
+  level: 1
+- ref:
+    seq: 2
+    marker_id: KR6k0265_G_002-mulu-51
+    span:
+    - body
+    - 14510
+    - 14510
+  label: 第五節　輕重
+  type: mulu
+  level: 1
+- ref:
+    seq: 2
+    marker_id: KR6k0265_G_002-mulu-52
+    span:
+    - body
+    - 14900
+    - 14900
+  label: 第八章　別簡性重
+  type: mulu
+  level: 1
+- ref:
+    seq: 2
+    marker_id: KR6k0265_G_002-mulu-53
+    span:
+    - body
+    - 14934
+    - 14934
+  label: 第一節　剋漫
+  type: mulu
+  level: 1
+- ref:
+    seq: 2
+    marker_id: KR6k0265_G_002-mulu-54
+    span:
+    - body
+    - 15058
+    - 15058
+  label: 第一項　婬
+  type: mulu
+  level: 1
+- ref:
+    seq: 2
+    marker_id: KR6k0265_G_002-mulu-55
+    span:
+    - body
+    - 15191
+    - 15191
+  label: 第二項　盜殺
+  type: mulu
+  level: 1
+- ref:
+    seq: 2
+    marker_id: KR6k0265_G_002-mulu-56
+    span:
+    - body
+    - 15320
+    - 15320
+  label: 第三項　妄
+  type: mulu
+  level: 1
+- ref:
+    seq: 2
+    marker_id: KR6k0265_G_002-mulu-57
+    span:
+    - body
+    - 15665
+    - 15665
+  label: 第二節　錯誤
+  type: mulu
+  level: 1
+- ref:
+    seq: 2
+    marker_id: KR6k0265_G_002-mulu-58
+    span:
+    - body
+    - 15858
+    - 15858
+  label: 第一項　婬
+  type: mulu
+  level: 1
+- ref:
+    seq: 2
+    marker_id: KR6k0265_G_002-mulu-59
+    span:
+    - body
+    - 15942
+    - 15942
+  label: 第二項　盜
+  type: mulu
+  level: 1
+- ref:
+    seq: 2
+    marker_id: KR6k0265_G_002-mulu-60
+    span:
+    - body
+    - 16498
+    - 16498
+  label: 第三項　殺
+  type: mulu
+  level: 1
+- ref:
+    seq: 2
+    marker_id: KR6k0265_G_002-mulu-61
+    span:
+    - body
+    - 16895
+    - 16895
+  label: 第四項　妄
+  type: mulu
+  level: 1
+- ref:
+    seq: 2
+    marker_id: KR6k0265_G_002-mulu-62
+    span:
+    - body
+    - 17450
+    - 17450
+  label: 第三節　身口互造
+  type: mulu
+  level: 1
+- ref:
+    seq: 2
+    marker_id: KR6k0265_G_002-mulu-63
+    span:
+    - body
+    - 17473
+    - 17473
+  label: 第一項　婬
+  type: mulu
+  level: 1
+- ref:
+    seq: 2
+    marker_id: KR6k0265_G_002-mulu-64
+    span:
+    - body
+    - 17535
+    - 17535
+  label: 第二項　殺盜
+  type: mulu
+  level: 1
+- ref:
+    seq: 2
+    marker_id: KR6k0265_G_002-mulu-65
+    span:
+    - body
+    - 18100
+    - 18100
+  label: 第三項　妄
+  type: mulu
+  level: 1
+- ref:
+    seq: 2
+    marker_id: KR6k0265_G_002-mulu-66
+    span:
+    - body
+    - 18164
+    - 18164
+  label: 第四節　教遣
+  type: mulu
+  level: 1
+- ref:
+    seq: 2
+    marker_id: KR6k0265_G_002-mulu-67
+    span:
+    - body
+    - 18182
+    - 18182
+  label: 第一項　教人
+  type: mulu
+  level: 1
+- ref:
+    seq: 2
+    marker_id: KR6k0265_G_002-mulu-68
+    span:
+    - body
+    - 18536
+    - 18536
+  label: 第二項　遣人
+  type: mulu
+  level: 1
+- ref:
+    seq: 2
+    marker_id: KR6k0265_G_002-mulu-69
+    span:
+    - body
+    - 18659
+    - 18659
+  label: 第五節　重犯戒
+  type: mulu
+  level: 1
+- ref:
+    seq: 2
+    marker_id: KR6k0265_G_002-mulu-70
+    span:
+    - body
+    - 19412
+    - 19412
+  label: 第九章　廣斥愚教
+  type: mulu
+  level: 1
+- ref:
+    seq: 2
+    marker_id: KR6k0265_G_002-mulu-71
+    span:
+    - body
+    - 20564
+    - 20564
+  label: 第二門　持犯別相
+  type: mulu
+  level: 1
+- ref:
+    seq: 2
+    marker_id: KR6k0265_G_002-mulu-72
+    span:
+    - body
+    - 20586
+    - 20586
+  label: 第一章　性罪
+  type: mulu
+  level: 1
+- ref:
+    seq: 2
+    marker_id: KR6k0265_G_002-mulu-73
+    span:
+    - body
+    - 20685
+    - 20685
+  label: 第一節　殺
+  type: mulu
+  level: 1
+- ref:
+    seq: 2
+    marker_id: KR6k0265_G_002-mulu-74
+    span:
+    - body
+    - 20789
+    - 20789
+  label: 第一項　犯境
+  type: mulu
+  level: 1
+- ref:
+    seq: 2
+    marker_id: KR6k0265_G_002-mulu-75
+    span:
+    - body
+    - 20983
+    - 20983
+  label: 第二項　犯相
+  type: mulu
+  level: 1
+- ref:
+    seq: 2
+    marker_id: KR6k0265_G_002-mulu-76
+    span:
+    - body
+    - 21001
+    - 21001
+  label: 第一支　列緣
+  type: mulu
+  level: 1
+- ref:
+    seq: 2
+    marker_id: KR6k0265_G_002-mulu-77
+    span:
+    - body
+    - 21023
+    - 21023
+  label: 第一類　正明犯緣
+  type: mulu
+  level: 1
+- ref:
+    seq: 2
+    marker_id: KR6k0265_G_002-mulu-78
+    span:
+    - body
+    - 21098
+    - 21098
+  label: 第二類　別示闕緣
+  type: mulu
+  level: 1
+- ref:
+    seq: 2
+    marker_id: KR6k0265_G_002-mulu-79
+    span:
+    - body
+    - 21138
+    - 21138
+  label: 第一端　闕初緣
+  type: mulu
+  level: 1
+- ref:
+    seq: 2
+    marker_id: KR6k0265_G_002-mulu-80
+    span:
+    - body
+    - 21502
+    - 21502
+  label: 第二端　闕第二緣
+  type: mulu
+  level: 1
+- ref:
+    seq: 2
+    marker_id: KR6k0265_G_002-mulu-81
+    span:
+    - body
+    - 22403
+    - 22403
+  label: 第三端　闕第三緣
+  type: mulu
+  level: 1
+- ref:
+    seq: 2
+    marker_id: KR6k0265_G_002-mulu-82
+    span:
+    - body
+    - 22665
+    - 22665
+  label: 第四端　闕第四緣
+  type: mulu
+  level: 1
+- ref:
+    seq: 2
+    marker_id: KR6k0265_G_002-mulu-83
+    span:
+    - body
+    - 22787
+    - 22787
+  label: 第五端　闕第五緣
+  type: mulu
+  level: 1
+- ref:
+    seq: 2
+    marker_id: KR6k0265_G_002-mulu-84
+    span:
+    - body
+    - 22873
+    - 22873
+  label: 第二支　隨釋
+  type: mulu
+  level: 1
+- ref:
+    seq: 2
+    marker_id: KR6k0265_G_002-mulu-85
+    span:
+    - body
+    - 22895
+    - 22895
+  label: 第一類　廣辨殺相
+  type: mulu
+  level: 1
+- ref:
+    seq: 2
+    marker_id: KR6k0265_G_002-mulu-86
+    span:
+    - body
+    - 22927
+    - 22927
+  label: 第一端　自作教人
+  type: mulu
+  level: 1
+- ref:
+    seq: 2
+    marker_id: KR6k0265_G_002-mulu-87
+    span:
+    - body
+    - 23460
+    - 23460
+  label: 第二端　用語破國
+  type: mulu
+  level: 1
+- ref:
+    seq: 2
+    marker_id: KR6k0265_G_002-mulu-88
+    span:
+    - body
+    - 23549
+    - 23549
+  label: 第三端　讚死
+  type: mulu
+  level: 1
+- ref:
+    seq: 2
+    marker_id: KR6k0265_G_002-mulu-89
+    span:
+    - body
+    - 23655
+    - 23655
+  label: 第四端　自殺
+  type: mulu
+  level: 1
+- ref:
+    seq: 2
+    marker_id: KR6k0265_G_002-mulu-90
+    span:
+    - body
+    - 23843
+    - 23843
+  label: 第二類　別明非畜
+  type: mulu
+  level: 1
+- ref:
+    seq: 2
+    marker_id: KR6k0265_G_002-mulu-91
+    span:
+    - body
+    - 24011
+    - 24011
+  label: 第三項　不犯
+  type: mulu
+  level: 1
+- ref:
+    seq: 2
+    marker_id: KR6k0265_G_002-mulu-92
+    span:
+    - body
+    - 24211
+    - 24211
+  label: 第二節　盜
+  type: mulu
+  level: 1
+- ref:
+    seq: 2
+    marker_id: KR6k0265_G_002-mulu-93
+    span:
+    - body
+    - 24403
+    - 24403
+  label: 第一項　犯境
+  type: mulu
+  level: 1
+- ref:
+    seq: 2
+    marker_id: KR6k0265_G_002-mulu-94
+    span:
+    - body
+    - 24688
+    - 24688
+  label: 第二項　犯相
+  type: mulu
+  level: 1
+- ref:
+    seq: 2
+    marker_id: KR6k0265_G_002-mulu-95
+    span:
+    - body
+    - 24709
+    - 24709
+  label: 第一支　列緣
+  type: mulu
+  level: 1
+- ref:
+    seq: 2
+    marker_id: KR6k0265_G_002-mulu-96
+    span:
+    - body
+    - 24731
+    - 24731
+  label: 第一類　正明犯緣
+  type: mulu
+  level: 1
+- ref:
+    seq: 2
+    marker_id: KR6k0265_G_002-mulu-97
+    span:
+    - body
+    - 24834
+    - 24834
+  label: 第二類　別示闕緣
+  type: mulu
+  level: 1
+- ref:
+    seq: 2
+    marker_id: KR6k0265_G_002-mulu-98
+    span:
+    - body
+    - 24860
+    - 24860
+  label: 第一端　引疏犯緣
+  type: mulu
+  level: 1
+- ref:
+    seq: 2
+    marker_id: KR6k0265_G_002-mulu-99
+    span:
+    - body
+    - 25424
+    - 25424
+  label: 第二端　依示闕緣
+  type: mulu
+  level: 1
+- ref:
+    seq: 2
+    marker_id: KR6k0265_G_002-mulu-100
+    span:
+    - body
+    - 25464
+    - 25464
+  label: 第一目　闕初緣
+  type: mulu
+  level: 1
+- ref:
+    seq: 2
+    marker_id: KR6k0265_G_002-mulu-101
+    span:
+    - body
+    - 25798
+    - 25798
+  label: 第二目　闕第二緣
+  type: mulu
+  level: 1
+- ref:
+    seq: 2
+    marker_id: KR6k0265_G_002-mulu-102
+    span:
+    - body
+    - 26444
+    - 26444
+  label: 第三目　闕第三緣
+  type: mulu
+  level: 1
+- ref:
+    seq: 2
+    marker_id: KR6k0265_G_002-mulu-103
+    span:
+    - body
+    - 26487
+    - 26487
+  label: 第四目　闕第四緣
+  type: mulu
+  level: 1
+- ref:
+    seq: 2
+    marker_id: KR6k0265_G_002-mulu-104
+    span:
+    - body
+    - 26694
+    - 26694
+  label: 第五目　闕第五緣
+  type: mulu
+  level: 1
+- ref:
+    seq: 2
+    marker_id: KR6k0265_G_002-mulu-105
+    span:
+    - body
+    - 26767
+    - 26767
+  label: 第二支　隨釋
+  type: mulu
+  level: 1
+- ref:
+    seq: 2
+    marker_id: KR6k0265_G_002-mulu-106
+    span:
+    - body
+    - 26854
+    - 26854
+  label: 第一類　有主物
+  type: mulu
+  level: 1
+- ref:
+    seq: 2
+    marker_id: KR6k0265_G_002-mulu-107
+    span:
+    - body
+    - 26880
+    - 26880
+  label: 第一端　三寶物
+  type: mulu
+  level: 1
+- ref:
+    seq: 2
+    marker_id: KR6k0265_G_002-mulu-108
+    span:
+    - body
+    - 27132
+    - 27132
+  label: 第一目　佛物
+  type: mulu
+  level: 1
+- ref:
+    seq: 2
+    marker_id: KR6k0265_G_002-mulu-109
+    span:
+    - body
+    - 27746
+    - 27746
+  label: 第二目　法物
+  type: mulu
+  level: 1
+- ref:
+    seq: 2
+    marker_id: KR6k0265_G_002-mulu-110
+    span:
+    - body
+    - 28104
+    - 28104
+  label: 第三目　僧物
+  type: mulu
+  level: 1
+- ref:
+    seq: 2
+    marker_id: KR6k0265_G_002-mulu-111
+    span:
+    - body
+    - 29002
+    - 29002
+  label: 第二端　別人物
+  type: mulu
+  level: 1
+- ref:
+    seq: 2
+    marker_id: KR6k0265_G_002-mulu-112
+    span:
+    - body
+    - 29029
+    - 29029
+  label: 第一目　掌主損失
+  type: mulu
+  level: 1
+- ref:
+    seq: 2
+    marker_id: KR6k0265_G_002-mulu-113
+    span:
+    - body
+    - 29236
+    - 29236
+  label: 第二目　明被賊
+  type: mulu
+  level: 1
+- ref:
+    seq: 2
+    marker_id: KR6k0265_G_002-mulu-114
+    span:
+    - body
+    - 29427
+    - 29427
+  label: 第三目　明盜相
+  type: mulu
+  level: 1
+- ref:
+    seq: 2
+    marker_id: KR6k0265_G_002-mulu-115
+    span:
+    - body
+    - 29916
+    - 29916
+  label: 第三端　非畜物
+  type: mulu
+  level: 1
+- ref:
+    seq: 2
+    marker_id: KR6k0265_G_002-mulu-116
+    span:
+    - body
+    - 30046
+    - 30046
+  label: 第二類　有主想
+  type: mulu
+  level: 1
+- ref:
+    seq: 2
+    marker_id: KR6k0265_G_002-mulu-117
+    span:
+    - body
+    - 30195
+    - 30195
+  label: 第三類　有盜心
+  type: mulu
+  level: 1
+- ref:
+    seq: 2
+    marker_id: KR6k0265_G_002-mulu-118
+    span:
+    - body
+    - 30992
+    - 30992
+  label: 第四類　是重物
+  type: mulu
+  level: 1
+- ref:
+    seq: 2
+    marker_id: KR6k0265_G_002-mulu-119
+    span:
+    - body
+    - 31014
+    - 31014
+  label: 第一端　明物體
+  type: mulu
+  level: 1
+- ref:
+    seq: 2
+    marker_id: KR6k0265_G_002-mulu-120
+    span:
+    - body
+    - 31794
+    - 31794
+  label: 第二端　列義門
+  type: mulu
+  level: 1
+- ref:
+    seq: 2
+    marker_id: KR6k0265_G_002-mulu-121
+    span:
+    - body
+    - 32460
+    - 32460
+  label: 第五類　離本處
+  type: mulu
+  level: 1
+- ref:
+    seq: 2
+    marker_id: KR6k0265_G_002-mulu-122
+    span:
+    - body
+    - 33773
+    - 33773
+  label: 第三支　結示
+  type: mulu
+  level: 1
+- ref:
+    seq: 2
+    marker_id: KR6k0265_G_002-mulu-123
+    span:
+    - body
+    - 34265
+    - 34265
+  label: 第三項　不犯
+  type: mulu
+  level: 1
+- ref:
+    seq: 2
+    marker_id: KR6k0265_G_002-mulu-124
+    span:
+    - body
+    - 34535
+    - 34535
+  label: 第三節　婬
+  type: mulu
+  level: 1
+- ref:
+    seq: 2
+    marker_id: KR6k0265_G_002-mulu-125
+    span:
+    - body
+    - 34603
+    - 34603
+  label: 第一項　犯境
+  type: mulu
+  level: 1
+- ref:
+    seq: 2
+    marker_id: KR6k0265_G_002-mulu-126
+    span:
+    - body
+    - 35647
+    - 35647
+  label: 第二項　犯相
+  type: mulu
+  level: 1
+- ref:
+    seq: 2
+    marker_id: KR6k0265_G_002-mulu-127
+    span:
+    - body
+    - 35669
+    - 35669
+  label: 第一支　列示犯緣
+  type: mulu
+  level: 1
+- ref:
+    seq: 2
+    marker_id: KR6k0265_G_002-mulu-128
+    span:
+    - body
+    - 35695
+    - 35695
+  label: 第一類　正明犯緣
+  type: mulu
+  level: 1
+- ref:
+    seq: 2
+    marker_id: KR6k0265_G_002-mulu-129
+    span:
+    - body
+    - 36050
+    - 36050
+  label: 第二類　別示闕緣
+  type: mulu
+  level: 1
+- ref:
+    seq: 2
+    marker_id: KR6k0265_G_002-mulu-130
+    span:
+    - body
+    - 36286
+    - 36286
+  label: 第二支　料簡雜相
+  type: mulu
+  level: 1
+- ref:
+    seq: 2
+    marker_id: KR6k0265_G_002-mulu-131
+    span:
+    - body
+    - 36312
+    - 36312
+  label: 第一類　通簡犯相
+  type: mulu
+  level: 1
+- ref:
+    seq: 2
+    marker_id: KR6k0265_G_002-mulu-132
+    span:
+    - body
+    - 36701
+    - 36701
+  label: 第二類　別示邪婬
+  type: mulu
+  level: 1
+- ref:
+    seq: 2
+    marker_id: KR6k0265_G_002-mulu-133
+    span:
+    - body
+    - 36800
+    - 36800
+  label: 第三項　不犯
+  type: mulu
+  level: 1
+- ref:
+    seq: 2
+    marker_id: KR6k0265_G_002-mulu-134
+    span:
+    - body
+    - 36901
+    - 36901
+  label: 第四節　妄
+  type: mulu
+  level: 1
+- ref:
+    seq: 2
+    marker_id: KR6k0265_G_002-mulu-135
+    span:
+    - body
+    - 36980
+    - 36980
+  label: 第一項　明大妄
+  type: mulu
+  level: 1
+- ref:
+    seq: 2
+    marker_id: KR6k0265_G_002-mulu-136
+    span:
+    - body
+    - 37022
+    - 37022
+  label: 第一支　犯相
+  type: mulu
+  level: 1
+- ref:
+    seq: 2
+    marker_id: KR6k0265_G_002-mulu-137
+    span:
+    - body
+    - 37040
+    - 37040
+  label: 第一類　列緣
+  type: mulu
+  level: 1
+- ref:
+    seq: 2
+    marker_id: KR6k0265_G_002-mulu-138
+    span:
+    - body
+    - 37062
+    - 37062
+  label: 第一端　正明犯緣
+  type: mulu
+  level: 1
+- ref:
+    seq: 2
+    marker_id: KR6k0265_G_002-mulu-139
+    span:
+    - body
+    - 37190
+    - 37190
+  label: 第二端　別示闕緣
+  type: mulu
+  level: 1
+- ref:
+    seq: 2
+    marker_id: KR6k0265_G_002-mulu-140
+    span:
+    - body
+    - 37877
+    - 37877
+  label: 第二類　隨釋
+  type: mulu
+  level: 1
+- ref:
+    seq: 2
+    marker_id: KR6k0265_G_002-mulu-141
+    span:
+    - body
+    - 38348
+    - 38348
+  label: 第二支　不犯
+  type: mulu
+  level: 1
+- ref:
+    seq: 2
+    marker_id: KR6k0265_G_002-mulu-142
+    span:
+    - body
+    - 38559
+    - 38559
+  label: 第二項　示四過
+  type: mulu
+  level: 1
+- ref:
+    seq: 2
+    marker_id: KR6k0265_G_002-mulu-143
+    span:
+    - body
+    - 38596
+    - 38596
+  label: 第一支　小妄語
+  type: mulu
+  level: 1
+- ref:
+    seq: 2
+    marker_id: KR6k0265_G_002-mulu-144
+    span:
+    - body
+    - 39089
+    - 39089
+  label: 第二支　惡口
+  type: mulu
+  level: 1
+- ref:
+    seq: 2
+    marker_id: KR6k0265_G_002-mulu-145
+    span:
+    - body
+    - 39532
+    - 39532
+  label: 第三支　兩舌
+  type: mulu
+  level: 1
+- ref:
+    seq: 2
+    marker_id: KR6k0265_G_002-mulu-146
+    span:
+    - body
+    - 39648
+    - 39648
+  label: 第四支　綺語
+  type: mulu
+  level: 1
+- ref:
+    seq: 2
+    marker_id: KR6k0265_G_002-mulu-147
+    span:
+    - body
+    - 39828
+    - 39828
+  label: 第二章　遮罪
+  type: mulu
+  level: 1
+- ref:
+    seq: 2
+    marker_id: KR6k0265_G_002-mulu-148
+    span:
+    - body
+    - 39869
+    - 39869
+  label: 第一節　飲酒
+  type: mulu
+  level: 1
+- ref:
+    seq: 2
+    marker_id: KR6k0265_G_002-mulu-149
+    span:
+    - body
+    - 39890
+    - 39890
+  label: 第一項　制意
+  type: mulu
+  level: 1
+- ref:
+    seq: 2
+    marker_id: KR6k0265_G_002-mulu-150
+    span:
+    - body
+    - 40070
+    - 40070
+  label: 第二項　犯相
+  type: mulu
+  level: 1
+- ref:
+    seq: 2
+    marker_id: KR6k0265_G_002-mulu-151
+    span:
+    - body
+    - 40088
+    - 40088
+  label: 第一支　列緣
+  type: mulu
+  level: 1
+- ref:
+    seq: 2
+    marker_id: KR6k0265_G_002-mulu-152
+    span:
+    - body
+    - 40159
+    - 40159
+  label: 第二支　隨釋
+  type: mulu
+  level: 1
+- ref:
+    seq: 2
+    marker_id: KR6k0265_G_002-mulu-153
+    span:
+    - body
+    - 40437
+    - 40437
+  label: 第三項　不犯
+  type: mulu
+  level: 1
+- ref:
+    seq: 2
+    marker_id: KR6k0265_G_002-mulu-154
+    span:
+    - body
+    - 40539
+    - 40539
+  label: 第二節　過中食
+  type: mulu
+  level: 1
+- ref:
+    seq: 2
+    marker_id: KR6k0265_G_002-mulu-155
+    span:
+    - body
+    - 40562
+    - 40562
+  label: 第一項　制意
+  type: mulu
+  level: 1
+- ref:
+    seq: 2
+    marker_id: KR6k0265_G_002-mulu-156
+    span:
+    - body
+    - 41302
+    - 41302
+  label: 第二項　犯相
+  type: mulu
+  level: 1
+- ref:
+    seq: 2
+    marker_id: KR6k0265_G_002-mulu-157
+    span:
+    - body
+    - 41320
+    - 41320
+  label: 第一支　列緣
+  type: mulu
+  level: 1
+- ref:
+    seq: 2
+    marker_id: KR6k0265_G_002-mulu-158
+    span:
+    - body
+    - 41353
+    - 41353
+  label: 第二支　隨釋
+  type: mulu
+  level: 1
+- ref:
+    seq: 2
+    marker_id: KR6k0265_G_002-mulu-159
+    span:
+    - body
+    - 41608
+    - 41608
+  label: 第三項　不犯
+  type: mulu
+  level: 1
+- ref:
+    seq: 2
+    marker_id: KR6k0265_G_002-mulu-160
+    span:
+    - body
+    - 41806
+    - 41806
+  label: 第三節　高大牀
+  type: mulu
+  level: 1
+- ref:
+    seq: 2
+    marker_id: KR6k0265_G_002-mulu-161
+    span:
+    - body
+    - 42160
+    - 42160
+  label: 第四節　嚴身
+  type: mulu
+  level: 1
+- ref:
+    seq: 2
+    marker_id: KR6k0265_G_002-mulu-162
+    span:
+    - body
+    - 42207
+    - 42207
+  label: 第五節　歌舞
+  type: mulu
+  level: 1
+- ref:
+    seq: 3
+    marker_id: KR6k0265_G_003-juan-start
+    span:
+    - body
+    - 0
+    - 3573
+  label: 南山律在家備覽　　略編　　學者宜先詳覽卷首之例言及目表然後再閱正文
+  type: juan
+  level: 1
+- ref:
+    seq: 3
+    marker_id: KR6k0265_G_003-mulu-1
+    span:
+    - body
+    - 0
+    - 0
+  label: 懺悔篇
+  type: mulu
+  level: 1
+- ref:
+    seq: 3
+    marker_id: KR6k0265_G_003-mulu-2
+    span:
+    - body
+    - 0
+    - 0
+  label: 前文
+  type: mulu
+  level: 1
+- ref:
+    seq: 3
+    marker_id: KR6k0265_G_003-mulu-3
+    span:
+    - body
+    - 685
+    - 685
+  label: 第一門　略分化制通局
+  type: mulu
+  level: 1
+- ref:
+    seq: 3
+    marker_id: KR6k0265_G_003-mulu-4
+    span:
+    - body
+    - 713
+    - 713
+  label: 第一章　明化教
+  type: mulu
+  level: 1
+- ref:
+    seq: 3
+    marker_id: KR6k0265_G_003-mulu-5
+    span:
+    - body
+    - 809
+    - 809
+  label: 第二章　明制教
+  type: mulu
+  level: 1
+- ref:
+    seq: 3
+    marker_id: KR6k0265_G_003-mulu-6
+    span:
+    - body
+    - 1072
+    - 1072
+  label: 第二門　別明化教二懺
+  type: mulu
+  level: 1
+- ref:
+    seq: 3
+    marker_id: KR6k0265_G_003-mulu-7
+    span:
+    - body
+    - 1102
+    - 1102
+  label: 第一章　對顯二懺
+  type: mulu
+  level: 1
+- ref:
+    seq: 3
+    marker_id: KR6k0265_G_003-mulu-8
+    span:
+    - body
+    - 2384
+    - 2384
+  label: 第二章　重廣理懺
+  type: mulu
+  level: 1
+- ref:
+    seq: 3
+    marker_id: KR6k0265_G_003-mulu-9
+    span:
+    - body
+    - 2413
+    - 2413
+  label: 第一節　標示用心
+  type: mulu
+  level: 1
+- ref:
+    seq: 3
+    marker_id: KR6k0265_G_003-mulu-10
+    span:
+    - body
+    - 2611
+    - 2611
+  label: 第二節　別列三觀
+  type: mulu
+  level: 1
+- ref:
+    seq: 3
+    marker_id: KR6k0265_G_003-mulu-11
+    span:
+    - body
+    - 3449
+    - 3449
+  label: 第三節　結示
+  type: mulu
+  level: 1
+- ref:
+    seq: 4
+    marker_id: KR6k0265_G_004-juan-start
+    span:
+    - body
+    - 0
+    - 38365
+  label: 南山律在家備覽　　略篇　　學者宜先詳覽卷首之例言及目表然後再閱正文
+  type: juan
+  level: 1
+- ref:
+    seq: 4
+    marker_id: KR6k0265_G_004-mulu-1
+    span:
+    - body
+    - 0
+    - 0
+  label: 別行篇
+  type: mulu
+  level: 1
+- ref:
+    seq: 4
+    marker_id: KR6k0265_G_004-mulu-2
+    span:
+    - body
+    - 0
+    - 0
+  label: 前文
+  type: mulu
+  level: 1
+- ref:
+    seq: 4
+    marker_id: KR6k0265_G_004-mulu-3
+    span:
+    - body
+    - 41
+    - 41
+  label: 第一門　敬佛儀相
+  type: mulu
+  level: 1
+- ref:
+    seq: 4
+    marker_id: KR6k0265_G_004-mulu-4
+    span:
+    - body
+    - 67
+    - 67
+  label: 第一章　先示敬儀
+  type: mulu
+  level: 1
+- ref:
+    seq: 4
+    marker_id: KR6k0265_G_004-mulu-5
+    span:
+    - body
+    - 1445
+    - 1445
+  label: 第二章　正明敬相
+  type: mulu
+  level: 1
+- ref:
+    seq: 4
+    marker_id: KR6k0265_G_004-mulu-6
+    span:
+    - body
+    - 1476
+    - 1476
+  label: 第一節　總斥非法
+  type: mulu
+  level: 1
+- ref:
+    seq: 4
+    marker_id: KR6k0265_G_004-mulu-7
+    span:
+    - body
+    - 2095
+    - 2095
+  label: 第二節　坐立差異
+  type: mulu
+  level: 1
+- ref:
+    seq: 4
+    marker_id: KR6k0265_G_004-mulu-8
+    span:
+    - body
+    - 2370
+    - 2370
+  label: 第三節　修供時節
+  type: mulu
+  level: 1
+- ref:
+    seq: 4
+    marker_id: KR6k0265_G_004-mulu-9
+    span:
+    - body
+    - 2948
+    - 2948
+  label: 第二門　入寺法式
+  type: mulu
+  level: 1
+- ref:
+    seq: 4
+    marker_id: KR6k0265_G_004-mulu-10
+    span:
+    - body
+    - 3189
+    - 3189
+  label: 第一章　中國舊法
+  type: mulu
+  level: 1
+- ref:
+    seq: 4
+    marker_id: KR6k0265_G_004-mulu-11
+    span:
+    - body
+    - 3213
+    - 3213
+  label: 第一節　入寺法
+  type: mulu
+  level: 1
+- ref:
+    seq: 4
+    marker_id: KR6k0265_G_004-mulu-12
+    span:
+    - body
+    - 3237
+    - 3237
+  label: 第一項　清信士法
+  type: mulu
+  level: 1
+- ref:
+    seq: 4
+    marker_id: KR6k0265_G_004-mulu-13
+    span:
+    - body
+    - 3261
+    - 3261
+  label: 第一支　示正法
+  type: mulu
+  level: 1
+- ref:
+    seq: 4
+    marker_id: KR6k0265_G_004-mulu-14
+    span:
+    - body
+    - 4153
+    - 4153
+  label: 第二支　斥非法
+  type: mulu
+  level: 1
+- ref:
+    seq: 4
+    marker_id: KR6k0265_G_004-mulu-15
+    span:
+    - body
+    - 4617
+    - 4617
+  label: 第二項　清信女法
+  type: mulu
+  level: 1
+- ref:
+    seq: 4
+    marker_id: KR6k0265_G_004-mulu-16
+    span:
+    - body
+    - 4858
+    - 4858
+  label: 第二節　出寺法
+  type: mulu
+  level: 1
+- ref:
+    seq: 4
+    marker_id: KR6k0265_G_004-mulu-17
+    span:
+    - body
+    - 5030
+    - 5030
+  label: 第二章　今師要術
+  type: mulu
+  level: 1
+- ref:
+    seq: 4
+    marker_id: KR6k0265_G_004-mulu-18
+    span:
+    - body
+    - 5576
+    - 5576
+  label: 第三門　造像塔寺
+  type: mulu
+  level: 1
+- ref:
+    seq: 4
+    marker_id: KR6k0265_G_004-mulu-19
+    span:
+    - body
+    - 5601
+    - 5601
+  label: 第一章　造像塔法
+  type: mulu
+  level: 1
+- ref:
+    seq: 4
+    marker_id: KR6k0265_G_004-mulu-20
+    span:
+    - body
+    - 5623
+    - 5623
+  label: 第一節　造像
+  type: mulu
+  level: 1
+- ref:
+    seq: 4
+    marker_id: KR6k0265_G_004-mulu-21
+    span:
+    - body
+    - 5646
+    - 5646
+  label: 第一項　通敘經像意
+  type: mulu
+  level: 1
+- ref:
+    seq: 4
+    marker_id: KR6k0265_G_004-mulu-22
+    span:
+    - body
+    - 5759
+    - 5759
+  label: 第二項　正明造像
+  type: mulu
+  level: 1
+- ref:
+    seq: 4
+    marker_id: KR6k0265_G_004-mulu-23
+    span:
+    - body
+    - 5789
+    - 5789
+  label: 第一支　中國造立元緣
+  type: mulu
+  level: 1
+- ref:
+    seq: 4
+    marker_id: KR6k0265_G_004-mulu-24
+    span:
+    - body
+    - 6129
+    - 6129
+  label: 第二支　此方制度漸失
+  type: mulu
+  level: 1
+- ref:
+    seq: 4
+    marker_id: KR6k0265_G_004-mulu-25
+    span:
+    - body
+    - 6747
+    - 6747
+  label: 第二節　造塔
+  type: mulu
+  level: 1
+- ref:
+    seq: 4
+    marker_id: KR6k0265_G_004-mulu-26
+    span:
+    - body
+    - 6781
+    - 6781
+  label: 第一項　示名
+  type: mulu
+  level: 1
+- ref:
+    seq: 4
+    marker_id: KR6k0265_G_004-mulu-27
+    span:
+    - body
+    - 6882
+    - 6882
+  label: 第二項　顯報
+  type: mulu
+  level: 1
+- ref:
+    seq: 4
+    marker_id: KR6k0265_G_004-mulu-28
+    span:
+    - body
+    - 7000
+    - 7000
+  label: 第三項　敬護
+  type: mulu
+  level: 1
+- ref:
+    seq: 4
+    marker_id: KR6k0265_G_004-mulu-29
+    span:
+    - body
+    - 7383
+    - 7383
+  label: 第四項　造處
+  type: mulu
+  level: 1
+- ref:
+    seq: 4
+    marker_id: KR6k0265_G_004-mulu-30
+    span:
+    - body
+    - 7600
+    - 7600
+  label: 第五項　供養修治
+  type: mulu
+  level: 1
+- ref:
+    seq: 4
+    marker_id: KR6k0265_G_004-mulu-31
+    span:
+    - body
+    - 8445
+    - 8445
+  label: 第六項　造毀二報
+  type: mulu
+  level: 1
+- ref:
+    seq: 4
+    marker_id: KR6k0265_G_004-mulu-32
+    span:
+    - body
+    - 8734
+    - 8734
+  label: 第二章　造寺法
+  type: mulu
+  level: 1
+- ref:
+    seq: 4
+    marker_id: KR6k0265_G_004-mulu-33
+    span:
+    - body
+    - 8859
+    - 8859
+  label: 第一節　應法生善
+  type: mulu
+  level: 1
+- ref:
+    seq: 4
+    marker_id: KR6k0265_G_004-mulu-34
+    span:
+    - body
+    - 9159
+    - 9159
+  label: 第二節　無法致損
+  type: mulu
+  level: 1
+- ref:
+    seq: 4
+    marker_id: KR6k0265_G_004-mulu-35
+    span:
+    - body
+    - 9779
+    - 9779
+  label: 第四門　瞻視病人
+  type: mulu
+  level: 1
+- ref:
+    seq: 4
+    marker_id: KR6k0265_G_004-mulu-36
+    span:
+    - body
+    - 9811
+    - 9811
+  label: 第一章　制意
+  type: mulu
+  level: 1
+- ref:
+    seq: 4
+    marker_id: KR6k0265_G_004-mulu-37
+    span:
+    - body
+    - 10228
+    - 10228
+  label: 第二章　簡人
+  type: mulu
+  level: 1
+- ref:
+    seq: 4
+    marker_id: KR6k0265_G_004-mulu-38
+    span:
+    - body
+    - 10369
+    - 10369
+  label: 第三章　安置處所
+  type: mulu
+  level: 1
+- ref:
+    seq: 4
+    marker_id: KR6k0265_G_004-mulu-39
+    span:
+    - body
+    - 10912
+    - 10912
+  label: 第四章　說法斂念
+  type: mulu
+  level: 1
+- ref:
+    seq: 4
+    marker_id: KR6k0265_G_004-mulu-40
+    span:
+    - body
+    - 10938
+    - 10938
+  label: 第一節　餘人勸導
+  type: mulu
+  level: 1
+- ref:
+    seq: 4
+    marker_id: KR6k0265_G_004-mulu-41
+    span:
+    - body
+    - 11152
+    - 11152
+  label: 第二節　瞻病勸導
+  type: mulu
+  level: 1
+- ref:
+    seq: 4
+    marker_id: KR6k0265_G_004-mulu-42
+    span:
+    - body
+    - 11562
+    - 11562
+  label: 第五門　離諸非法
+  type: mulu
+  level: 1
+- ref:
+    seq: 4
+    marker_id: KR6k0265_G_004-mulu-43
+    span:
+    - body
+    - 11601
+    - 11601
+  label: 第一章　別請僧眾
+  type: mulu
+  level: 1
+- ref:
+    seq: 4
+    marker_id: KR6k0265_G_004-mulu-44
+    span:
+    - body
+    - 12343
+    - 12343
+  label: 第二章　受僧食物
+  type: mulu
+  level: 1
+- ref:
+    seq: 4
+    marker_id: KR6k0265_G_004-mulu-45
+    span:
+    - body
+    - 12403
+    - 12403
+  label: 第一節　明用與
+  type: mulu
+  level: 1
+- ref:
+    seq: 4
+    marker_id: KR6k0265_G_004-mulu-46
+    span:
+    - body
+    - 12832
+    - 12832
+  label: 第二節　約緣開
+  type: mulu
+  level: 1
+- ref:
+    seq: 4
+    marker_id: KR6k0265_G_004-mulu-47
+    span:
+    - body
+    - 13204
+    - 13204
+  label: 第三節　示汙家
+  type: mulu
+  level: 1
+- ref:
+    seq: 4
+    marker_id: KR6k0265_G_004-mulu-48
+    span:
+    - body
+    - 13500
+    - 13500
+  label: 第三章　謫罰可否
+  type: mulu
+  level: 1
+- ref:
+    seq: 4
+    marker_id: KR6k0265_G_004-mulu-49
+    span:
+    - body
+    - 13522
+    - 13522
+  label: 第一節　別列
+  type: mulu
+  level: 1
+- ref:
+    seq: 4
+    marker_id: KR6k0265_G_004-mulu-50
+    span:
+    - body
+    - 13544
+    - 13544
+  label: 第一項　勸俗敬護
+  type: mulu
+  level: 1
+- ref:
+    seq: 4
+    marker_id: KR6k0265_G_004-mulu-51
+    span:
+    - body
+    - 13913
+    - 13913
+  label: 第二項　勸俗治惡
+  type: mulu
+  level: 1
+- ref:
+    seq: 4
+    marker_id: KR6k0265_G_004-mulu-52
+    span:
+    - body
+    - 14236
+    - 14236
+  label: 第二節　會通
+  type: mulu
+  level: 1
+- ref:
+    seq: 4
+    marker_id: KR6k0265_G_004-mulu-53
+    span:
+    - body
+    - 14426
+    - 14426
+  label: 第四章　食肉
+  type: mulu
+  level: 1
+- ref:
+    seq: 4
+    marker_id: KR6k0265_G_004-mulu-54
+    span:
+    - body
+    - 14453
+    - 14453
+  label: 第一節　引大廢小
+  type: mulu
+  level: 1
+- ref:
+    seq: 4
+    marker_id: KR6k0265_G_004-mulu-55
+    span:
+    - body
+    - 15264
+    - 15264
+  label: 第二節　引小急制
+  type: mulu
+  level: 1
+- ref:
+    seq: 4
+    marker_id: KR6k0265_G_004-mulu-56
+    span:
+    - body
+    - 15720
+    - 15720
+  label: 第三節　通禁諸物
+  type: mulu
+  level: 1
+- ref:
+    seq: 4
+    marker_id: KR6k0265_G_004-mulu-57
+    span:
+    - body
+    - 15944
+    - 15944
+  label: 第五章　畜養貓狗
+  type: mulu
+  level: 1
+- ref:
+    seq: 4
+    marker_id: KR6k0265_G_004-mulu-58
+    span:
+    - body
+    - 16216
+    - 16216
+  label: 第六門　出家宗致
+  type: mulu
+  level: 1
+- ref:
+    seq: 4
+    marker_id: KR6k0265_G_004-mulu-59
+    span:
+    - body
+    - 16351
+    - 16351
+  label: 第一章　出俗本意
+  type: mulu
+  level: 1
+- ref:
+    seq: 4
+    marker_id: KR6k0265_G_004-mulu-60
+    span:
+    - body
+    - 16851
+    - 16851
+  label: 第一節　出家元緣
+  type: mulu
+  level: 1
+- ref:
+    seq: 4
+    marker_id: KR6k0265_G_004-mulu-61
+    span:
+    - body
+    - 16877
+    - 16877
+  label: 第一項　出家文證
+  type: mulu
+  level: 1
+- ref:
+    seq: 4
+    marker_id: KR6k0265_G_004-mulu-62
+    span:
+    - body
+    - 17522
+    - 17522
+  label: 第二項　引誡勸修
+  type: mulu
+  level: 1
+- ref:
+    seq: 4
+    marker_id: KR6k0265_G_004-mulu-63
+    span:
+    - body
+    - 18201
+    - 18201
+  label: 第二節　勸出有益
+  type: mulu
+  level: 1
+- ref:
+    seq: 4
+    marker_id: KR6k0265_G_004-mulu-64
+    span:
+    - body
+    - 18372
+    - 18372
+  label: 第三節　障出有損
+  type: mulu
+  level: 1
+- ref:
+    seq: 4
+    marker_id: KR6k0265_G_004-mulu-65
+    span:
+    - body
+    - 18488
+    - 18488
+  label: 第四節　明出家已行凡罪行
+  type: mulu
+  level: 1
+- ref:
+    seq: 4
+    marker_id: KR6k0265_G_004-mulu-66
+    span:
+    - body
+    - 19322
+    - 19322
+  label: 第五節　明出家已行凡福行
+  type: mulu
+  level: 1
+- ref:
+    seq: 4
+    marker_id: KR6k0265_G_004-mulu-67
+    span:
+    - body
+    - 19903
+    - 19903
+  label: 第六節　明出家已行聖道行
+  type: mulu
+  level: 1
+- ref:
+    seq: 4
+    marker_id: KR6k0265_G_004-mulu-68
+    span:
+    - body
+    - 20876
+    - 20876
+  label: 第七節　大小乘相決同異
+  type: mulu
+  level: 1
+- ref:
+    seq: 4
+    marker_id: KR6k0265_G_004-mulu-69
+    span:
+    - body
+    - 20994
+    - 20994
+  label: 第一項　小乘三學
+  type: mulu
+  level: 1
+- ref:
+    seq: 4
+    marker_id: KR6k0265_G_004-mulu-70
+    span:
+    - body
+    - 21316
+    - 21316
+  label: 第二項　大乘三學
+  type: mulu
+  level: 1
+- ref:
+    seq: 4
+    marker_id: KR6k0265_G_004-mulu-71
+    span:
+    - body
+    - 22412
+    - 22412
+  label: 第二章　先說苦事
+  type: mulu
+  level: 1
+- ref:
+    seq: 4
+    marker_id: KR6k0265_G_004-mulu-72
+    span:
+    - body
+    - 22795
+    - 22795
+  label: 第三章　應知五德
+  type: mulu
+  level: 1
+- ref:
+    seq: 4
+    marker_id: KR6k0265_G_004-mulu-73
+    span:
+    - body
+    - 23702
+    - 23702
+  label: 附文
+  type: mulu
+  level: 1
+- ref:
+    seq: 4
+    marker_id: KR6k0265_G_004-mulu-74
+    span:
+    - body
+    - 23702
+    - 23702
+  label: 戒體章名相別攷
+  type: mulu
+  level: 1
+- ref:
+    seq: 4
+    marker_id: KR6k0265_G_004-mulu-75
+    span:
+    - body
+    - 23770
+    - 23770
+  label: 諸法五位
+  type: mulu
+  level: 1
+- ref:
+    seq: 4
+    marker_id: KR6k0265_G_004-mulu-76
+    span:
+    - body
+    - 24274
+    - 24274
+  label: 三有為法
+  type: mulu
+  level: 1
+- ref:
+    seq: 4
+    marker_id: KR6k0265_G_004-mulu-77
+    span:
+    - body
+    - 24393
+    - 24393
+  label: 七十五法
+  type: mulu
+  level: 1
+- ref:
+    seq: 4
+    marker_id: KR6k0265_G_004-mulu-78
+    span:
+    - body
+    - 25887
+    - 25887
+  label: 三科
+  type: mulu
+  level: 1
+- ref:
+    seq: 4
+    marker_id: KR6k0265_G_004-mulu-79
+    span:
+    - body
+    - 26393
+    - 26393
+  label: 五蘊
+  type: mulu
+  level: 1
+- ref:
+    seq: 4
+    marker_id: KR6k0265_G_004-mulu-80
+    span:
+    - body
+    - 26568
+    - 26568
+  label: 色蘊
+  type: mulu
+  level: 1
+- ref:
+    seq: 4
+    marker_id: KR6k0265_G_004-mulu-81
+    span:
+    - body
+    - 26930
+    - 26930
+  label: 色義
+  type: mulu
+  level: 1
+- ref:
+    seq: 4
+    marker_id: KR6k0265_G_004-mulu-82
+    span:
+    - body
+    - 27263
+    - 27263
+  label: 行蘊
+  type: mulu
+  level: 1
+- ref:
+    seq: 4
+    marker_id: KR6k0265_G_004-mulu-83
+    span:
+    - body
+    - 27435
+    - 27435
+  label: 識蘊
+  type: mulu
+  level: 1
+- ref:
+    seq: 4
+    marker_id: KR6k0265_G_004-mulu-84
+    span:
+    - body
+    - 27475
+    - 27475
+  label: 心意識
+  type: mulu
+  level: 1
+- ref:
+    seq: 4
+    marker_id: KR6k0265_G_004-mulu-85
+    span:
+    - body
+    - 27724
+    - 27724
+  label: 業
+  type: mulu
+  level: 1
+- ref:
+    seq: 4
+    marker_id: KR6k0265_G_004-mulu-86
+    span:
+    - body
+    - 28275
+    - 28275
+  label: 作戒無作戒
+  type: mulu
+  level: 1
+- ref:
+    seq: 4
+    marker_id: KR6k0265_G_004-mulu-87
+    span:
+    - body
+    - 28595
+    - 28595
+  label: 戒體義
+  type: mulu
+  level: 1
+- ref:
+    seq: 4
+    marker_id: KR6k0265_G_004-mulu-88
+    span:
+    - body
+    - 29303
+    - 29303
+  label: 無表色
+  type: mulu
+  level: 1
+- ref:
+    seq: 4
+    marker_id: KR6k0265_G_004-mulu-89
+    span:
+    - body
+    - 29773
+    - 29773
+  label: 成實四假
+  type: mulu
+  level: 1
+- ref:
+    seq: 4
+    marker_id: KR6k0265_G_004-mulu-90
+    span:
+    - body
+    - 29843
+    - 29843
+  label: 成實論
+  type: mulu
+  level: 1
+- ref:
+    seq: 4
+    marker_id: KR6k0265_G_004-mulu-91
+    span:
+    - body
+    - 29917
+    - 29917
+  label: 南山三教三觀
+  type: mulu
+  level: 1
+- ref:
+    seq: 4
+    marker_id: KR6k0265_G_004-mulu-92
+    span:
+    - body
+    - 30138
+    - 30138
+  label: 戒之四科
+  type: mulu
+  level: 1
+- ref:
+    seq: 4
+    marker_id: KR6k0265_G_004-mulu-93
+    span:
+    - body
+    - 30210
+    - 30210
+  label: 日中攷
+  type: mulu
+  level: 1
+- ref:
+    seq: 4
+    marker_id: KR6k0265_G_004-mulu-94
+    span:
+    - body
+    - 30968
+    - 30968
+  label: 周尺考
+  type: mulu
+  level: 1
+- ref:
+    seq: 4
+    marker_id: KR6k0265_G_004-mulu-95
+    span:
+    - body
+    - 31496
+    - 31496
+  label: 受十善戒法
+  type: mulu
+  level: 1
+- ref:
+    seq: 4
+    marker_id: KR6k0265_G_004-mulu-96
+    span:
+    - body
+    - 31990
+    - 31990
+  label: 南山道宣律祖弘傳律教年譜
+  type: mulu
+  level: 1
+- ref:
+    seq: 4
+    marker_id: KR6k0265_G_004-mulu-97
+    span:
+    - body
+    - 34940
+    - 34940
+  label: 靈芝律師年譜
+  type: mulu
+  level: 1
+- ref:
+    seq: 4
+    marker_id: KR6k0265_G_004-mulu-98
+    span:
+    - body
+    - 37316
+    - 37316
+  label: 功德題名
+  type: mulu
+  level: 1
+hash: sha256:b66cc6394e6c6f2d9c1658912d34c15b97c3cb9de62a75d8d40a35c6f51ba148
