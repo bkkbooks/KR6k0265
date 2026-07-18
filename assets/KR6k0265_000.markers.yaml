@@ -218,6 +218,7 @@ markers:
   - {type: variant, offset: 927, length: 0, content: '', 佛教: 一}
   - {type: punctuation, offset: 934, content: ▲, id: KR6k0265_G_000-bkkpn136}
   - {type: punctuation, offset: 934, content: △, id: KR6k0265_G_000-bkkpn137}
+  - {type: 'voice:problem', offset: 934, length: 4, id: KR6k0265_bkk_000-bkkvprob1, source: parens, bucket: front, code: expected-close, message: 'expected '')'' after ''▲'' at offset 934, got ''▲'' at offset 938'}
   - {type: punctuation, offset: 936, content: 。, id: KR6k0265_G_000-bkkpn138}
   - {type: punctuation, offset: 938, content: ▲, id: KR6k0265_G_000-bkkpn139}
   - {type: punctuation, offset: 939, content: 、, id: KR6k0265_G_000-bkkpn140}
@@ -2320,4 +2321,4 @@ markers:
   - {type: line-break, offset: 4390, content: '', id: KR6k0265_G_000-0011a01, ed: G, 'n': 0011a01}
   body: []
   back: []
-hash: sha256:1e42bb39f2f53331b23722244aa6ee6b16a532e7885deb30f89c426092b61be7
+hash: sha256:efff112159bd5af49c6727996d1822f012a2dacc706070ea6acb152b87a5b407
